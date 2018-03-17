@@ -5,7 +5,7 @@ This repo has the notes I made, per lesson. I'm moving them over from Google Dri
 
 
 ## Sequence and note links:
-| Lesson                | Topic           | Complete
+| Lesson                | Topic           | Status
 |--------------------|---------------------| --------------------
 | [Lesson 0](lessons/00-social-justice) | Applying to Ada | :white_check_mark:
 | [Lesson 1](lessons/01-learning-style/)  | Social Justice | :white_check_mark:

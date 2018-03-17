@@ -11,7 +11,7 @@ This repo has the notes I made, per lesson. I'm moving them over from Google Dri
 | [Lesson 1](lessons/01-learning-style/)  | Social Justice | :white_check_mark:
 | [Lesson 2](lessons/02-problem-solving/)  | Learning Styles | :white_check_mark:
 | [Lesson 3](lessons/03-workflow/)  | Problem Solving | :white_check_mark:
-| [Lesson 4](lessons/04-effective-searching/)  | Effective Ineternet Searching | :large_orange_diamond: :computer: 
+| [Lesson 4](lessons/04-effective-searching/)  | Effective Internet Searching | :large_orange_diamond: :computer: 
 | [Lesson 5](lessons/05-terminal/)  | MacOSX Keyboard navigation | :white_check_mark:
 | [Lesson 6](lessons/06-big-picture/)  | Ada programming languages | :white_check_mark:
 | [Lesson 7](lessons/07-environment-setup/)  | Terminal | :large_orange_diamond: :computer:

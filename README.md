@@ -7,21 +7,21 @@ This repo has the notes I made, per lesson. I'm moving them over from Google Dri
 ## Sequence and note links:
 | Lesson                | Topic           | Status
 |--------------------|---------------------| --------------------
-| [Lesson -1](lessons/-01-applying-to-ada) | Applying to Ada | :white_check_mark:
-| [Lesson 0](lessons/00-social-justice) | Social Justice | :white_check_mark:
-| [Lesson 1](lessons/01-learning-styles/)  | Learning Styles | :white_check_mark:
-| [Lesson 2](lessons/02-problem-solving/)  | Problem Solving | :white_check_mark:
-| [Lesson 3](lessons/03-effective-internet-searching/)  | Effective Internet Searching | :white_check_mark:
-| [Lesson 4](lessons/04-MacOSX-Keyboard-navigation/)  | MacOSX Keyboard navigation | :large_orange_diamond: :computer: 
-| [Lesson 5](lessons/05-ada-programming-languages/)  | Ada programming languages | :white_check_mark:
-| [Lesson 6](lessons/06-terminal/)  | Terminal | :white_check_mark:
-| [Lesson 7](lessons/07-environment-setup/)  | Environment Setup | :large_orange_diamond: :computer:
-| [Lesson 8](lessons/08-hello-world/)  | Hello World | :white_check_mark:
-| [Lesson 9](lessons/09-programming-grammar/)  | Comments, Data types, Mathematical operators, Keyboard input, Strings | :white_check_mark:
-| [Lesson 10](lessons/10-programming-expressions/)  | Relational operators, Logical operators, Conditionals | :large_orange_diamond:
-| [Lesson 11](lessons/11-iterators/)  | Iterators | :large_orange_diamond:
-| [Lesson 12](lessons/12-arrays/)  | Arrays | :large_orange_diamond:
-| [Lesson 13](lessons/13-hashes/)  | Hashes | :large_orange_diamond:
+| [Lesson -1](lessons/applying-to-ada) | Applying to Ada | :white_check_mark:
+| [Lesson 0](lessons/social-justice) | Social Justice | :white_check_mark:
+| [Lesson 1](lessons/learning-styles/)  | Learning Styles | :white_check_mark:
+| [Lesson 2](lessons/problem-solving/)  | Problem Solving | :white_check_mark:
+| [Lesson 3](lessons/effective-internet-searching/)  | Effective Internet Searching | :white_check_mark:
+| [Lesson 4](lessons/MacOSX-Keyboard-navigation/)  | MacOSX Keyboard navigation | :large_orange_diamond: :computer: 
+| [Lesson 5](lessons/ada-programming-languages/)  | Ada programming languages | :white_check_mark:
+| [Lesson 6](lessons/terminal/)  | Terminal | :white_check_mark:
+| [Lesson 7](lessons/environment-setup/)  | Environment Setup | :large_orange_diamond: :computer:
+| [Lesson 8](lessons/hello-world/)  | Hello World | :white_check_mark:
+| [Lesson 9](lessons/programming-grammar/)  | Comments, Data types, Mathematical operators, Keyboard input, Strings | :white_check_mark:
+| [Lesson 10](lessons/programming-expressions/)  | Relational operators, Logical operators, Conditionals | :large_orange_diamond:
+| [Lesson 11](lessons/iterators/)  | Iterators | :large_orange_diamond:
+| [Lesson 12](lessons/arrays/)  | Arrays | :large_orange_diamond:
+| [Lesson 13](lessons/hashes/)  | Hashes | :large_orange_diamond:
 
 
  

@@ -1,4 +1,7 @@
 ## Lesson 2: Problem Solving
+
+[Link to Ada Academy lesson 2](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/problem-solving)
+
 Text in bold from lesson plan
 
 ### Learning Goals:

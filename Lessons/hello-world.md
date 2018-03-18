@@ -14,7 +14,7 @@ Hello World: 1974 Bell Laboratories memo, then included in 1978 The C Programmin
 
 Earlier book in 1972 also uses it, other claims
 
-ruby 2.3.1p112 (2016-04-26) x86_64-linux-gnu
+My Ruby version is: ruby 2.3.1p112 (2016-04-26) x86_64-linux-gnu
 
 
 ### Activities

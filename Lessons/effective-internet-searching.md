@@ -36,10 +36,10 @@ Interesting: “When people use Google search to hunt the web, they generally se
 1. Use the tabs- broadest categories to narrow in Google's search engine
 2. Use quotes- to find a specific phrase, not the keywords
 3. Use a hyphen to exclude words- especially useful for words with multiple meanings like "drive"
-4. Use a colon to search specific sites- I should do this more. I always forget about this. Syntax: in search bar type: pear site: https://minimalistbaker.com/ Result 
-5. Find a page that links to another page- like finding the other city that a road links to- Syntax: in search bar type: link:www.amphilsoc.org Result
+4. Use a colon to search specific sites- I should do this more. I always forget about this. Syntax: in search bar type: pear site: https://minimalistbaker.com/  
+5. Find a page that links to another page- like finding the other city that a road links to- Syntax: in search bar type: link:www.amphilsoc.org 
 6. Use the asterisk wildcard- especially useful to use in the middle of a phrase where you don't know one of the words. Syntax  *  
-7. Find sites that are similar to other sites- Syntax: in search bar type: related:chess.com Result
+7. Find sites that are similar to other sites- Syntax: in search bar type: related:chess.com 
 8. Use Google search to do math- type the math problem in the search bar
 9. Search for multiple words at once- use OR to get either
 10. Search a range of numbers- use two dots before a number or in between two numbers. Using two dots before a number will only return that, not higher or lower, and using two dots between two numbers will return answers that are in the range between the two numbers.
@@ -54,7 +54,6 @@ The math example posted above is another one.
 What is the definition of *word* or Define: *word* – This will display the definition of a word. 
 Time *place* – This will display the time in whatever place you type in. 
 You can check any stock by typing its ticker name into Google. If you search for GOOG, it will check the stock prices for Google. 
-More and More!
 16. Spelling doesn't necessarily matter- Google is a computer, but it's a computer that knows common spelling mistakes people make
 17. Use descriptive words- and try using different ways to say it- "how to" is not the same as "troubleshoot," and one may be more useful than the other to you at different times.
 18. Find a specific file- syntax: *internet privacy* filetype:pdf

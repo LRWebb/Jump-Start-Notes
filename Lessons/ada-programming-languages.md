@@ -5,7 +5,7 @@
 Text in bold from lesson plan 
 
 ### Goal:
-**Develop an understanding of how languages are used in combination to create a web application
+**Develop an understanding of how languages are used in combination to create a web application**
 
 ### Overview: 
 **Programming languages exist so that humans can give instructions to computers. Fundamentally, programming is about communication. Programming languages are similar to human spoken languages, they have dialects, grammars, colloquialisms, idioms, and parts of speech.**

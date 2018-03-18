@@ -4,12 +4,12 @@
 
 Text in bold from lesson plan 
 
-**Note: You can postpone this lesson until you have a Mac computer **
+**Note: You can postpone this lesson until you have a Mac computer**
 
 I don’t have a Mac but I want to read through this anyway and get familiar with it
 
 ### Goals:
-* Become familiar with navigating the MacOSX environment
+* **Become familiar with navigating the MacOSX environment
 * Understand why and how to utilize multiple tabs, application windows, and desktops
 * Start using application shortcuts and hotkeys
 * Effectively find applications, folders, and files
@@ -17,31 +17,19 @@ I don’t have a Mac but I want to read through this anyway and get familiar wit
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | 
-Command (⌘) + C |
-| Paste | 
-Command (⌘) + V|
-| Cut | 
-Command (⌘) + X|
-| Save | 
-Command (⌘) + S|
-| Select | 
-Command (⌘) + A is to select all |
-| Undo | 
-Command (⌘) + Z |
-| Redo | 
-Command (⌘) +Shift+ Z |
-| Find | 
-Command (⌘) + F|
-| Switch app | 
-Command (⌘) + Tab|
-| Open spotlight search | 
-Command (⌘) + Space bar|
+| Copy | Command (⌘) + C |
+| Paste | Command (⌘) + V|
+| Cut | Command (⌘) + X|
+| Save | Command (⌘) + S|
+| Select | Command (⌘) + A is to select all |
+| Undo | Command (⌘) + Z |
+| Redo | Command (⌘) +Shift+ Z |
+| Find | Command (⌘) + F|
+| Switch app | Command (⌘) + Tab|
+| Open spotlight search | Command (⌘) + Space bar|
 | Force quit | For open app: press Command-Shift-Option-Esc and hold for 3 seconds|
-| Full-screen screen shot | 
-Option + Command (⌘) + Esc|
-| User-defined region screen shot | 
-Shift + Command (⌘) + 4|
+| Full-screen screen shot | Option + Command (⌘) + Esc|
+| User-defined region screen shot | Shift + Command (⌘) + 4|
 
 Dock, Finder, Menu bar (context sensitive), Mission control, Mouse & Trackpad.  
 
@@ -52,7 +40,7 @@ Cool!
 
 
 ## Practice tasks
-1. Use Spotlight to open the finder
+1. **Use Spotlight to open the finder
     * What does tab do in finder?
     * What does shift + tab do in finder?
 2. Do the following commands using only the keyboard:

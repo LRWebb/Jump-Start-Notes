@@ -42,8 +42,11 @@ The terminal will take in what you write, do it, then display output if that's p
 
 #### Practive making files and folders:
 :heavy_check_mark:  Market
+
 :heavy_check_mark:  Lessons
+
 :heavy_check_mark:  Songs
+
 :heavy_check_mark:  Card games
  
 

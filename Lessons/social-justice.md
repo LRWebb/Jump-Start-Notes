@@ -1,6 +1,8 @@
 
 ## Lesson 0: Social Justice	
 
+[Link to Ada Academy lesson 0](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/social-justice)
+
 Text in bold from lesson plan, other text mine
 
 ### Learning Goals:

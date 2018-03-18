@@ -1,4 +1,7 @@
-## Lesson 3: Internet Searching
+## Lesson 3: Effective Internet Searching
+
+[Link to Ada Academy lesson 3](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-to-code/internet-searching)
+
 Text in bold from lesson plan 
 
 ### Goals:
@@ -54,7 +57,7 @@ You can check any stock by typing its ticker name into Google. If you search for
 More and More!
 16. Spelling doesn't necessarily matter- Google is a computer, but it's a computer that knows common spelling mistakes people make
 17. Use descriptive words- and try using different ways to say it- "how to" is not the same as "troubleshoot," and one may be more useful than the other to you at different times.
-18. Find a specific file- syntax: *internet privacy* filetype:pdf Result
+18. Find a specific file- syntax: *internet privacy* filetype:pdf
 19. Money and unit conversions- like doing math in the search bar, can convert miles to km, dollars to pounds, etc
 20. Track your packages- enter the tracking number into the search bar
 

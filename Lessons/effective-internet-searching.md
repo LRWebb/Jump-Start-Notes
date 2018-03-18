@@ -65,7 +65,7 @@ More and More!
 
 Clicked on Google's Tips and Tricks and also found these tips:
 
-| Use this:                | To do this"           | Like this for example:
+| Use this:                | To do this:           | Like this for example:
 |--------------------|---------------------| --------------------
 | movies 	  | find movies & theaters nearby (zip or city)	  | movies 94043
 | flight status  | 	 get flight status with the airline & flight number	  | HA 124

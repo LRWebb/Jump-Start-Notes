@@ -1,4 +1,7 @@
-## Lesson 1: Learning Style
+## Lesson 1: Learning Styles
+
+[Link to Ada Academy lesson](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/learning-styles)
+
 Text in bold from lesson plan  
 
 ### Learning goals:

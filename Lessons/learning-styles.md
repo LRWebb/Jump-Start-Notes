@@ -62,6 +62,7 @@ As I read through these strategies and descriptions again, I think I'm an Aural 
 
 ## Optional readings:
 [How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
+
 [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
 
 [How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
@@ -82,7 +83,8 @@ Intermittent stress is different from constant stress- constant stress is worse
 10. Use your support system- also super super good- grabbing the chunk: "To be calm and productive, you need to recognize your weaknesses and ask for help when you need it. This means tapping into your support system when a situation is challenging enough for you to feel overwhelmed. Everyone has someone at work and/or outside work who is on their team, rooting for them, and ready to help them get the best from a difficult situation. Identify these individuals in your life and make an effort to seek their insight and assistance when you need it. Something as simple as talking about your worries will provide an outlet for your anxiety and stress and supply you with a new perspective on the situation. Most of the time, other people can see a solution that you can’t because they are not as emotionally invested in the situation. Asking for help will mitigate your stress and strengthen your relationships with those you rely upon."
 
 [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
-Reading Felder and Soloman’s learning styles I see a lot of myself in the Sequential one. I mean, to even do this LaunchPad I made a spreadsheet first thing and I’m working through it- that’s pretty sequential :)
+
+Reading Felder and Soloman’s learning styles I see a lot of myself in the Sequential one. I mean, to even do this Jump Start I made a spreadsheet first thing and I’m working through it- that’s pretty sequential :)
 
 #### Active and Reflective
 Active prefer to discuss or do first- try it, like group work

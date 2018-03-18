@@ -64,9 +64,12 @@ More and More!
 :heavy_check_mark: **Try AGoogleADay.com, a daily search challenge from Google**
 
 Clicked on Google's Tips and Tricks and also found these tips:
-* movies 	find movies & theaters nearby (zip or city)	movies 94043
-* flight status	 get flight status with the airline & flight number	HA 124
-* intitle:		find words in the title of the webpage		intitle:inspirational
+
+| Use this:                | To do this"           | Like this for example:
+|--------------------|---------------------| --------------------
+| movies 	  | find movies & theaters nearby (zip or city)	  | movies 94043
+| flight status  | 	 get flight status with the airline & flight number	  | HA 124
+| intitle:		  | find words in the title of the webpage		  | intitle:inspirational
 
 #### Addtl. Techniques:
 * Type using keywords instead of full sentences

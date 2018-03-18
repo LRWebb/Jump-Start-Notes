@@ -40,9 +40,11 @@ Interesting that getting out of a car is one of the most difficult things for a 
 :heavy_check_mark: **Finally, complete either the peanut butter (or alternative) and jelly sandwich activity, or the paper snowflake activity.**
 
 Hm I need to find someone to do this with me- will come back to it
+
 **(Option 2) Make a Paper Snowflake
 For this activity, you will write precise instructions to make a paper snowflake. You will need to find someone to carry out those instructions to test your algorithm's clarity. While they are following your instructions, you are only allowed to watch, they are not able to ask you questions.
 When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output.**
+
 Thinking I'll ask a friend to do the paper snowflake one- seems more fun and I can email the instructions. 
 
 #### Instructions to make a paper snowflake: 
@@ -80,8 +82,11 @@ I love it! SO beautifullll :)
 :heavy_check_mark: [What Is a Good Test Case?](http://www.kaner.com/pdfs/GoodTest.pdf) (Cem Kaner, J.D., Ph.D.)
 
 Notes:
+
 Florida school
+
 2003
+
 A test case is - I like this definition best of the 4:
 Boris Beizer (1995, p. 3) defines a test as “A sequence of one or more subtests executed as a sequence because the outcome and/or final state of one subtest is the input and/or initial state of the next. The word ‘test’ is used to include subtests, tests proper, and test suites. 
 Kaner says a test case is a question that you ask of the program. 

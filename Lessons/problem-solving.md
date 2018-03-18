@@ -1,48 +1,48 @@
 ## Lesson 2: Problem Solving
 Text in bold from lesson plan
 
-** Learning Goals:
-Understand what an algorithm is
-Develop your own algorithm for a task, test, refine, and evaluate it **
+### Learning Goals:
+**Understand what an algorithm is
+Develop your own algorithm for a task, test, refine, and evaluate it**
 
-** Activities: **
-:heavy_check_mark: ** Start by reading through our notes on algorithms. **
+### Activities: 
+:heavy_check_mark: **Start by reading through our notes on algorithms.**
 
 “An algorithm is a series of steps to solve a problem.” - https://github.com/Ada-Developers-Academy/jump-start/blob/master/preparing-for-ada/problem-solving/algorithms.md
 Procedures of varying degrees of preciseness. Computers cannot assume. 
 Donald Knuth- algorithms have “five basic properties, finiteness, definiteness, inputs, outputs, and effectiveness.”
 
-### Properties of algorithms:
+#### Properties of algorithms:
 1. Finite- it starts and ends
 2. Definite- no ambiguity
 3. Inputs- things going in 
 4. Outputs- results going out
 5. Effectiveness- if it works, how well it works
 
-:heavy_check_mark: ** Write an algorithm for getting to the house of a family member or friend (you pick a specific person)? Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness. **
+:heavy_check_mark: **Write an algorithm for getting to the house of a family member or friend (you pick a specific person)? Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness.**
 
-** Input: ** Initial state is the person in the algorithm is me, with a driver’s license and the ability and knowledge to drive, with my glasses on, and with an operable car (don’t have a car, but for this let’s assume I do). 
-** Output: ** The result wanted is I get from my house to my friend’s house.
-** Finiteness: ** The time frame is one hour
-** Definiteness: ** The steps below should be precise enough for a different person (or computer hah) to follow
-** Effectiveness: ** As much as possible, the steps below should have few assumptions
-** Algorithm: **
+**Input:** Initial state is the person in the algorithm is me, with a driver’s license and the ability and knowledge to drive, with my glasses on, and with an operable car (don’t have a car, but for this let’s assume I do). 
+**Output:** The result wanted is I get from my house to my friend’s house.
+**Finiteness:** The time frame is one hour
+**Definiteness:** The steps below should be precise enough for a different person (or computer hah) to follow
+**Effectiveness:** As much as possible, the steps below should have few assumptions
+**Algorithm:**
 You start from your apartment in West Philadelphia. Make sure you have your keys, glasses on, and wallet with drivers license. If you’re missing any of those items find them first and take them with you. You exit your apartment, go downstairs and outside to where the car is parked. Unlock the car and get in. Turn the car on and check for traffic, then when the way is clear, move from a parked position into the street. Following traffic laws, drive north west to Cedar Ave. Look for a parking space close to your friends house. When you find one, signal that you’re parking, park and turn off the car. Get out and lock the door, then walk to your friend’s house using the sidewalks and ring the doorbell. You’re here!
 
-:heavy_check_mark: ** Watch the Driverless Car Hits the Street - Not People (2008) and think about why writing instructions for computers might be different than writing instructions for humans. **
+:heavy_check_mark: **Watch the Driverless Car Hits the Street - Not People (2008) and think about why writing instructions for computers might be different than writing instructions for humans.**
 
 Well my first thought is, they got a Lotus to play with?! Wow, that would be fun :) Second thought is it’s interesting the way Brian Deery talks about self-driving cars- “Where the road is, where we are, and where we need to be” It’s a DARPA program… Walt Silva- “To make vehicles driverless takes humans out of harms way”  I disagree with this. I think in some situations yes, it can be safer, but in military implications not necessarily. For the difference between writing instructions for computers vs humans, I think a big difference is how much knowledge people have. Yes, a computer can hold thousands of books worth of knowledge- but can it use that the way people can?
 
-:heavy_check_mark: ** Then watch The 2015 DARPA Robotics Challenge Finals (2015), a more recent video and think about what the computer scientists writing code for these robots have to think about. What inputs do they have? What is their intended output? How are their algorithms considered Definite, Effective, and Finite? **
+:heavy_check_mark: **Then watch The 2015 DARPA Robotics Challenge Finals (2015), a more recent video and think about what the computer scientists writing code for these robots have to think about. What inputs do they have? What is their intended output? How are their algorithms considered Definite, Effective, and Finite?**
 
 Interesting that getting out of a car is one of the most difficult things for a robot to do. I didn’t think about that, but now that I am I’d agree- even for people there’s a ton of balance, strength, and shifting of weight involved. I liked the way William Billy Howell was talking and handling his stress- I liked that he was honest about it, but could also present the situation (falling robot, damage to a project he spent 4 years doing) in a positive and hopeful way (something to learn, going to get better) Douglas Stephen- “Just because a robot looks like a human, does not mean it’s processing information like a human” Looking at this video and the robots moving around, I think the inputs are visual, laser, weight, and resistance (when turning a knob). I think their intended output depends on where they are in the competition, and includes advancing, climbing, turning things, and removing obstacles. I think the algorithms are definite, effective, and finite because there’s a human controller involved- even though these robots are going through somewhere alone, it looked like it took a lot of human input.
 
-:heavy_check_mark: ** Finally, complete either the peanut butter (or alternative) and jelly sandwich activity, or the paper snowflake activity. **
+:heavy_check_mark: **Finally, complete either the peanut butter (or alternative) and jelly sandwich activity, or the paper snowflake activity.**
 
 Hm I need to find someone to do this with me- will come back to it
-** (Option 2) Make a Paper Snowflake
+**(Option 2) Make a Paper Snowflake
 For this activity, you will write precise instructions to make a paper snowflake. You will need to find someone to carry out those instructions to test your algorithm's clarity. While they are following your instructions, you are only allowed to watch, they are not able to ask you questions.
-When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output. **
+When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output.**
 Thinking I'll ask a friend to do the paper snowflake one- seems more fun and I can email the instructions. 
 
 #### Instructions to make a paper snowflake: 

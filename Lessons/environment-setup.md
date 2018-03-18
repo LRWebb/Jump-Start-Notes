@@ -11,7 +11,9 @@ Text in bold from lesson plan
 
 ### Activities
 :heavy_check_mark: Review notes
+
 :large_orange_diamond: Complete install fest- half done
+
 :heavy_check_mark: (Optional) [Creating a gist from Atom](gist-from-atom.md)
 
 Did it!! Hello Gisty :) https://gist.github.com/0604741e66a346025fce5912e06f967f

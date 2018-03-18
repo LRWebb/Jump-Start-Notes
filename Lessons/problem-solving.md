@@ -74,7 +74,7 @@ All right, emailed to a friend- I'm nervous about step 9 but excited to see the 
 
 #### Snowflake Result:
 
-[Snowflake}(https://github.com/LRWebb/Jump-Start-Notes/blob/master/Images/123.jpg?raw=true)
+[Snowflake](https://github.com/LRWebb/Jump-Start-Notes/blob/master/Images/123.jpg?raw=true)
 
 I love it! SO beautifullll :)
 

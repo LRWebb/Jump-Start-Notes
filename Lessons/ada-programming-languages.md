@@ -9,6 +9,7 @@ Text in bold from lesson plan
 
 ### Overview: 
 **Programming languages exist so that humans can give instructions to computers. Fundamentally, programming is about communication. Programming languages are similar to human spoken languages, they have dialects, grammars, colloquialisms, idioms, and parts of speech.**
+
 What is the difference between a colloquialism and an idiom?
 
 Both are found in every language. Idiom has French roots. Idiom is a phrase- if it does not make literal sense in the context of the sentence, it is an idiom. Colloquialisms are informal words or phrases- there's a more formal alternative. Most idioms are colloquial- informal. [Source](http://www.differencebetween.com/difference-between-idioms-and-vs-colloquialisms/) 

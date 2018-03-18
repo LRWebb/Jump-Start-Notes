@@ -13,7 +13,7 @@ I don’t have a Mac but I want to read through this anyway and get familiar wit
 * Understand why and how to utilize multiple tabs, application windows, and desktops
 * Start using application shortcuts and hotkeys
 * Effectively find applications, folders, and files
-* Effectively manage open applications
+* Effectively manage open applications**
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
@@ -51,7 +51,7 @@ Cool!
     5. Navigate back to the Ada tab
     6. Refresh the web page
     7. Quit out of the web browser (don't just close the tabs, close the whole application)
-3. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
+3. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications**
 
 
 To run through when I have a Mac

@@ -1,6 +1,7 @@
 ## Lesson -01 Applying to Ada
 
-[Link to Ada Academy lesson](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/applying-to-ada)
+[Link to Ada Academy lesson -01](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/applying-to-ada)
+
 Text in bold from lesson plan
 
 

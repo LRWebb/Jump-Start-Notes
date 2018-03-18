@@ -10,7 +10,7 @@ Learning programming is concepts and vocabulary
 Try different strategies as you go
 
 ## Activities:
-**Read through our notes on learning styles.**
+:heavy_check_mark: **Read through our notes on learning styles.**
 
 Thoughts- 
 VARK! Neil Fleming- Visual, Auditory, Reading/Writing Preference, and Kinesthetic.
@@ -61,9 +61,9 @@ Since I think I'm a combination learner, I'm going to gather all the strategies 
 As I read through these strategies and descriptions again, I think I'm an Aural learner- I do re-ask questions and like to talk things through. Maybe that's why videos don't work for me- I can see the person but I can't ask a question- but why do I like podcasts and find them better then?
 
 ## Optional readings:
-[How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
+:heavy_check_mark: [How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
 
-[Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
+:heavy_check_mark: [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
 
 [How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
 Reading this I thought a lot of a friend- she can go from "mistake" to "everything is ruined" really quickly. The chart shows how stress can really negatively affect thinking. 

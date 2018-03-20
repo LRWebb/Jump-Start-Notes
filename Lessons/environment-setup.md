@@ -35,7 +35,7 @@ See Lesson 8 for install screenshots:
 Notes on this install are in my Lesson 8 notes:  
 "Based on the email/GitHub message from Ada today, I'm going back to Lesson 7- Atom and Ruby at least- Notes in this one though as I'm doing it on the 22nd  
 
-### Required software
+### Required software:  
 
 :large_orange_diamond: Need :computer: [OS X _El Capitan_ (or OS X _Sierra_)](http://www.apple.com/osx/whats-new/)  
 :large_orange_diamond: Need :computer: [Xcode Command Line Tools](#xcode-command-line-tools)  

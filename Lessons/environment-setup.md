@@ -29,10 +29,20 @@ I have a Linux laptop. I need a mac before I can do some of this :( heading over
 
 So I was able to do it!  
 
-#### Installfest  
+## Installfest:
+
 See Lesson 8 for install screenshots:  
 Notes on this install are in my Lesson 8 notes:  
 "Based on the email/GitHub message from Ada today, I'm going back to Lesson 7- Atom and Ruby at least- Notes in this one though as I'm doing it on the 22nd  
+
+### Required software
+
+:large_orange_diamond: Need :computer: [OS X _El Capitan_ (or OS X _Sierra_)](http://www.apple.com/osx/whats-new/)
+:large_orange_diamond: Need :computer: [Xcode Command Line Tools](#xcode-command-line-tools)
+:heavy_check_mark:  [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
+:heavy_check_mark:  [Atom (text editor)](https://atom.io/)
+:large_orange_diamond: Need :computer: [Ruby Version Manager (rvm) (package manager)](https://rvm.io/)
+:heavy_check_mark:  [Ruby (latest stable version of Ruby)](https://www.ruby-lang.org/en/)
 
 I do have Chrome  
 I also have Sublime Text- Atom looks cool too    

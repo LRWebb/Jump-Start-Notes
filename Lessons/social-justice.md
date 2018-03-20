@@ -15,7 +15,7 @@ Gain familiarity with the concept of microaggressions, and develop some initial 
 
 :heavy_check_mark: Start by reviewing our [glossary of social justice terms](./glossary.md).  
 
-Then read and reflect on these articles
+Then read and reflect on these articles  
 :heavy_check_mark: 1. [#FFFFFF Diversity](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.os3cox669) by [Erica Joy](http://www.ericabaker.com/)  
 :heavy_check_mark: 2. [What Being Non-Binary in Female-Centric Spaces Is Like – And How to Be More Inclusive](https://everydayfeminism.com/2016/06/non-binary-in-female-spaces/) by [Sam Escobar](https://twitter.com/myhairisblue)  
 :heavy_check_mark: 3. [Allies and Microaggressions](https://www.insidehighered.com/advice/2016/04/13/how-be-ally-someone-experiencing-microaggressions-essay) by [Kerry Ann Rockquemore](https://twitter.com/divaprof)  

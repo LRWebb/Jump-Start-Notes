@@ -5,8 +5,8 @@
 Text in bold from lesson plan
 
 ## Learning Goals:
-**Understand what an algorithm is
-Develop your own algorithm for a task, test, refine, and evaluate it**
+**Understand what an algorithm is  
+Develop your own algorithm for a task, test, refine, and evaluate it**  
 
 ## Activities: 
 :heavy_check_mark:  **Start by reading through our notes on algorithms.**

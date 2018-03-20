@@ -1,38 +1,39 @@
-## Lesson 3: Effective Internet Searching
+# Lesson 3: Effective Internet Searching
 
 [Link to Ada Academy lesson 3](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-to-code/internet-searching)
 
 Text in bold from lesson plan 
 
-### Goals:
-**To know where to go for answers **
-To be able to evaluate a source as likely to have the answer you are looking for (or not)
-To be able to narrow your search results to yield better results
-To find answers to a question on your own
-What's most important is that you can find the answer, not that you know the answer right away.**
+## Goals:
+* **To know where to go for answers **
+* To be able to evaluate a source as likely to have the answer you are looking for (or not)
+* To be able to narrow your search results to yield better results
+* To find answers to a question on your own
 
-StackOverflow
+**What's most important is that you can find the answer, not that you know the answer right away.**
+
+StackOverflow  
 Google
 
-### Activities:
+## Activities:
 :heavy_check_mark: **Read** [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
-“My mom still waits for me to come home during breaks to transfer new music to her MP3 player (which I bought her).”
+“My mom still waits for me to come home during breaks to transfer new music to her MP3 player (which I bought her).”  
 Yes me too!!! Also identifying with not knowing where to start to bridge the gap, feeling like I missed out by not starting programming as a teenager, but keeping going still
 
-“the answer was out there, somewhere.”
-"The gap is not insurmountable because I have what it takes to learn." <3
-"all we really need is the opportunity to see that it’s not hopeless. It’s not about what we already know, it’s about how we learn. It’s about the tenacity"
-Good encouraging writing to not give up- not knowing doesn't mean failure, it means you’re not where you want to be yet, and you can still get there
+“the answer was out there, somewhere.”  
+"The gap is not insurmountable because I have what it takes to learn." <3  
+"all we really need is the opportunity to see that it’s not hopeless. It’s not about what we already know, it’s about how we learn. It’s about the tenacity"  
+Good encouraging writing to not give up- not knowing doesn't mean failure, it means you’re not where you want to be yet, and you can still get there  
 
 :heavy_check_mark: **Watch** [How Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
  
-Google video! Matt Cutts- “You aren’t actually searching the web, you’re searching Google’s index of the web” Google’s software asks questions of the page results to determine which ones to show you and in which order
+Google video! Matt Cutts- “You aren’t actually searching the web, you’re searching Google’s index of the web” Google’s software asks questions of the page results to determine which ones to show you and in which order  
 
 :heavy_check_mark: **Read ** [20 Tips to Google Search Efficiently](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
 
-Interesting: “When people use Google search to hunt the web, they generally search for things using the same language that they would use for speaking. Unfortunately, websites don’t say things the way people do; instead, they try to use language that sounds professional”
+Interesting: “When people use Google search to hunt the web, they generally search for things using the same language that they would use for speaking. Unfortunately, websites don’t say things the way people do; instead, they try to use language that sounds professional”  
 
-**20 Tips to Google Search Efficiently:**
+### 20 Tips to Google Search Efficiently:
 1. Use the tabs- broadest categories to narrow in Google's search engine
 2. Use quotes- to find a specific phrase, not the keywords
 3. Use a hyphen to exclude words- especially useful for words with multiple meanings like "drive"
@@ -71,10 +72,10 @@ Clicked on Google's Tips and Tricks and also found these tips:
 | intitle:		  | find words in the title of the webpage		  | intitle:inspirational
 
 #### Addtl. Techniques:
-* Type using keywords instead of full sentences
-* Add 'example' to your query if you want to see an example
-* Add the specific language you are coding in to your query, e.g. 'ruby'
-* Use double quotations when you need an exact match in your search
-* Make sure to check the date of what you are referencing, languages often change over time
+* Type using keywords instead of full sentences  
+* Add 'example' to your query if you want to see an example  
+* Add the specific language you are coding in to your query, e.g. 'ruby'  
+* Use double quotations when you need an exact match in your search  
+* Make sure to check the date of what you are referencing, languages often change over time  
 
 I also like to add phrases that could bring up a tutorial that also explains the how and the why, instead of just steps- like adding “how I” to what you want to do can bring up blog posts that have tutorials

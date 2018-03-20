@@ -16,7 +16,7 @@ StackOverflow
 Google
 
 ## Activities:
-:heavy_check_mark: **Read** [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
+:heavy_check_mark: **Read** [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)  
 “My mom still waits for me to come home during breaks to transfer new music to her MP3 player (which I bought her).”  
 Yes me too!!! Also identifying with not knowing where to start to bridge the gap, feeling like I missed out by not starting programming as a teenager, but keeping going still  
 “the answer was out there, somewhere.”  

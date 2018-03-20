@@ -1,36 +1,36 @@
-## Lesson 2: Problem Solving
+# Lesson 2: Problem Solving
 
 [Link to Ada Academy lesson 2](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/problem-solving)
 
 Text in bold from lesson plan
 
-### Learning Goals:
+## Learning Goals:
 **Understand what an algorithm is
 Develop your own algorithm for a task, test, refine, and evaluate it**
 
-### Activities: 
+## Activities: 
 :heavy_check_mark:  **Start by reading through our notes on algorithms.**
 
 “An algorithm is a series of steps to solve a problem.” - https://github.com/Ada-Developers-Academy/jump-start/blob/master/preparing-for-ada/problem-solving/algorithms.md
 Procedures of varying degrees of preciseness. Computers cannot assume. 
 Donald Knuth- algorithms have “five basic properties, finiteness, definiteness, inputs, outputs, and effectiveness.”
 
-#### Properties of algorithms:
-1. Finite- it starts and ends
-2. Definite- no ambiguity
-3. Inputs- things going in 
-4. Outputs- results going out
-5. Effectiveness- if it works, how well it works
+### Properties of algorithms:
+1. Finite- it starts and ends  
+2. Definite- no ambiguity  
+3. Inputs- things going in  
+4. Outputs- results going out  
+5. Effectiveness- if it works, how well it works  
 
 :heavy_check_mark:  **Write an algorithm for getting to the house of a family member or friend (you pick a specific person)? Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness.**
 
-**Input:** Initial state is the person in the algorithm is me, with a driver’s license and the ability and knowledge to drive, with my glasses on, and with an operable car (don’t have a car, but for this let’s assume I do). 
-**Output:** The result wanted is I get from my house to my friend’s house.
-**Finiteness:** The time frame is one hour
-**Definiteness:** The steps below should be precise enough for a different person (or computer hah) to follow
-**Effectiveness:** As much as possible, the steps below should have few assumptions
-**Algorithm:**
-You start from your apartment in West Philadelphia. Make sure you have your keys, glasses on, and wallet with drivers license. If you’re missing any of those items find them first and take them with you. You exit your apartment, go downstairs and outside to where the car is parked. Unlock the car and get in. Turn the car on and check for traffic, then when the way is clear, move from a parked position into the street. Following traffic laws, drive north west to Cedar Ave. Look for a parking space close to your friends house. When you find one, signal that you’re parking, park and turn off the car. Get out and lock the door, then walk to your friend’s house using the sidewalks and ring the doorbell. You’re here!
+**Input:** Initial state is the person in the algorithm is me, with a driver’s license and the ability and knowledge to drive, with my glasses on, and with an operable car (don’t have a car, but for this let’s assume I do).  
+**Output:** The result wanted is I get from my house to my friend’s house.  
+**Finiteness:** The time frame is one hour  
+**Definiteness:** The steps below should be precise enough for a different person (or computer hah) to follow  
+**Effectiveness:** As much as possible, the steps below should have few assumptions  
+**Algorithm:**  
+You start from your apartment in West Philadelphia. Make sure you have your keys, glasses on, and wallet with drivers license. If you’re missing any of those items find them first and take them with you. You exit your apartment, go downstairs and outside to where the car is parked. Unlock the car and get in. Turn the car on and check for traffic, then when the way is clear, move from a parked position into the street. Following traffic laws, drive north west to Cedar Ave. Look for a parking space close to your friends house. When you find one, signal that you’re parking, park and turn off the car. Get out and lock the door, then walk to your friend’s house using the sidewalks and ring the doorbell. You’re here!  
 
 :heavy_check_mark:  **Watch the Driverless Car Hits the Street - Not People (2008) and think about why writing instructions for computers might be different than writing instructions for humans.**
 
@@ -50,11 +50,11 @@ When listing the steps in your procedure, you should assume the person following
 
 Thinking I'll ask a friend to do the paper snowflake one- seems more fun and I can email the instructions. 
 
-#### Instructions to make a paper snowflake: 
-* Please follow the steps below.
-* Please interpret them as literally as possible. 
-* I cannot answer questions.
-* Please email me a picture of the result and let me know if the instructions below had any gaps. 
+### Instructions to make a paper snowflake: 
+* Please follow the steps below.  
+* Please interpret them as literally as possible.   
+* I cannot answer questions.  
+* Please email me a picture of the result and let me know if the instructions below had any gaps.  
 
 Steps:
 1. Follow these steps in order, unless you're directed to a specific step- if so, go there next. 
@@ -75,7 +75,7 @@ Steps:
 All right, emailed to a friend- I'm nervous about step 9 but excited to see the result!
 
 
-#### Snowflake Result:
+### Snowflake Result:
 
 [Snowflake](https://github.com/LRWebb/Jump-Start-Notes/blob/master/Images/123.jpg?raw=true)
 
@@ -84,11 +84,13 @@ I love it! SO beautifullll :)
 ### Optional readings:
 :heavy_check_mark: [What Is a Good Test Case?](http://www.kaner.com/pdfs/GoodTest.pdf) (Cem Kaner, J.D., Ph.D.)
 
-Notes:
-Florida school
-2003
-A test case is - I like this definition best of the 4:
-Boris Beizer (1995, p. 3) defines a test as “A sequence of one or more subtests executed as a sequence because the outcome and/or final state of one subtest is the input and/or initial state of the next. The word ‘test’ is used to include subtests, tests proper, and test suites. 
+Notes:  
+Florida school  
+2003  
+A test case is - I like this definition best of the 4:  
+Boris Beizer (1995, p. 3) defines a test as 
+>A sequence of one or more subtests executed as a sequence because the outcome and/or final state of 
+>one subtest is the input and/or initial state of the next. The word ‘test’ is used to include >subtests, tests proper, and test suites.  
 Kaner says a test case is a question that you ask of the program. 
 We do this to find defects, maximize bug count, block premature product releases, help staff make decisions, minimize tech support costs, conform to regulations, minimize lawsuit risk, assess quality, and assure quality
 

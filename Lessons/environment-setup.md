@@ -27,6 +27,8 @@ irb is one way to use Ruby + computer. The other way is to put the Ruby code on 
 
 I have a Linux laptop. I need a mac before I can do some of this :( heading over to look at Atom and see if they have a Linux version  
 
+So I was able to do it!  
+
 Installfest 
 See Lesson 8 for install screenshots:  
 Notes on this install are in my Lesson 8 notes:  

@@ -40,6 +40,9 @@ Cool!
 
 
 ## Practice tasks:
+
+*To run through when I have a Mac*  
+
 1. Use Spotlight to open the finder
     * What does tab do in finder?
     * What does shift + tab do in finder?
@@ -54,7 +57,6 @@ Cool!
 3. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
 
 
-To run through when I have a Mac
 
 
 

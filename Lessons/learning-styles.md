@@ -5,8 +5,8 @@
 Text in bold from lesson plan  
 
 ## Learning goals:
-**Explore your learning style
-Find strategies that allow you to consume and retain information quickly, and increase your understanding**
+**Explore your learning style  
+Find strategies that allow you to consume and retain information quickly, and increase your understanding**  
 
 Important- **Learning how to learn is one of the fundamental steps to becoming a successful software developer.**
 Learning programming is concepts and vocabulary

@@ -1,23 +1,20 @@
-## Lesson 8: Hello World
+# Lesson 8: Hello World
 
 [Link to Ada Academy lesson 8](https://github.com/Ada-Developers-Academy/jump-start/tree/master/learning-to-code/hello-world)
 
 Text in bold from lesson plan 
 
-### Learning Goals
+## Learning Goals:
 * Write and execute Ruby code
 * Practice using `irb` and running Ruby files from the terminal
 
-### Notes
+## Notes:
 
-Hello World: 1974 Bell Laboratories memo, then included in 1978 The C Programming Language
+Hello World: 1974 Bell Laboratories memo, then included in 1978 The C Programming Language  
+Earlier book in 1972 also uses it, other claims  
+My Ruby version is: ruby 2.3.1p112 (2016-04-26) x86_64-linux-gnu  
 
-Earlier book in 1972 also uses it, other claims
-
-My Ruby version is: ruby 2.3.1p112 (2016-04-26) x86_64-linux-gnu
-
-
-### Activities
+## Activities:
 :heavy_check_mark: Read about the history of [Hello, World!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 :heavy_check_mark: Write and execute a hello world program in the terminal using `irb`

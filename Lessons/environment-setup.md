@@ -5,18 +5,16 @@
 Text in bold from lesson plan 
 
 ## Learning Goals:
-* To setup a development environment
-* Gain confidence in using interactive Ruby (`irb`)
-* Gain confidence in using Atom
+* **To setup a development environment**  
+* **Gain confidence in using interactive Ruby (`irb`)**  
+* **Gain confidence in using Atom**  
 
 ## Activities:
-:heavy_check_mark: Review notes
+:heavy_check_mark: Review notes  
+:large_orange_diamond: Need :computer: Complete install fest- half done  
+:heavy_check_mark: (Optional) [Creating a gist from Atom](gist-from-atom.md)  
 
-:large_orange_diamond: Complete install fest- half done
-
-:heavy_check_mark: (Optional) [Creating a gist from Atom](gist-from-atom.md)
-
-Did it!! Hello Gisty :) https://gist.github.com/0604741e66a346025fce5912e06f967f
+Did it!! Hello Gisty :) https://gist.github.com/0604741e66a346025fce5912e06f967f  
 
 ## Notes:
 

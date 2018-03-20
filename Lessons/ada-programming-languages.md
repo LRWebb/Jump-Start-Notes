@@ -26,20 +26,20 @@ Interpreted languages have a program that does this (going back to binary). Ther
 More: "compiled and interpreted languages can be divided into dynamically typed and statically typed languages. Statically typed programming languages do type checking (the process of verifying and enforcing the constraints of types) at compile-time as opposed to run-time. Dynamically typed programming languages do type checking at run-time as opposed to compile-time."
 
 ## Languages: 
-### Ruby:
+#### Ruby:
 Ruby is 1993- Japanese, written for people. It's high level like Python, and dynamically typed, so it does fact-checking at run-time, not compile-time.   
 Yukihiro "Matz" Matsumoto.
 
-### HTLM & CSS: 
+#### HTLM & CSS: 
 
 HTML is the skeleton- markup  
 CSS is the clothes- style sheet  
 
-### Javascript:
+#### Javascript:
 
 Javascript is interpreted and dynamically typed. It's often used with HTML and CSS.
 
-#### Frameworks:
+### Frameworks:
 
 Frameworks are part of the work done for you, then you can build off that, use those tools. Includes programs, compilers, code libraries, tool sets, and APIs.
 

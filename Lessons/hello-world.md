@@ -5,8 +5,8 @@
 Text in bold from lesson plan 
 
 ## Learning Goals:
-* Write and execute Ruby code
-* Practice using `irb` and running Ruby files from the terminal
+* **Write and execute Ruby code**
+* **Practice using `irb` and running Ruby files from the terminal**
 
 ## Notes:
 

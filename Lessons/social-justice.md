@@ -6,9 +6,9 @@
 Text in bold from lesson plan, other text mine
 
 ## Learning Goals:
-**Gain some tools for thinking critically about power and privilege in tech communities
-Begin approaching tech diversity initiatives with an intersectional lens 
-Gain familiarity with the concept of microaggressions, and develop some initial strategies for intervention**
+**Gain some tools for thinking critically about power and privilege in tech communities  
+Begin approaching tech diversity initiatives with an intersectional lens  
+Gain familiarity with the concept of microaggressions, and develop some initial strategies for intervention**  
 
 **Ada's statement of inclusivity
 Students, staff, volunteers, TA's, and reps from our sponsor companies come to Ada Developers Academy with an incredible diversity of identity and experience. We strive to make Ada an inclusive, safe, and equitable space for every member of our community. We recognize and celebrate difference along many axes including, but not limited to, sexual orientation, gender identity and presentation, age, race, ethnicity, class, religion, physical appearance, ability, national origin, educational background, and parental status. Our community includes women and gender diverse people (people who identify as trans, non-binary, gender queer, gender fluid, and gender non-conforming).**

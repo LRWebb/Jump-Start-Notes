@@ -16,11 +16,11 @@ Try different strategies as you go
 :heavy_check_mark: **Read through our notes on learning styles.**
 
 Thoughts- 
-VARK! Neil Fleming- Visual, Auditory, Reading/Writing Preference, and Kinesthetic.
-I do rewrite my notes, but I also listen to a lot of podcasts-
-Even after reading this, I’m not sure what my main learning style is. Reading the additional link, http://vark-learn.com/introduction-to-vark/the-vark-modalities/, I could be multimodal
-Thinking about it more, I noticed that video learning is hard for me- it's harder for me to pay attention to a video than a podcast- which is strange, but true for me
-Since I think I'm a combination learner, I'm going to gather all the strategies in my notes here as things I could try:
+VARK! Neil Fleming- Visual, Auditory, Reading/Writing Preference, and Kinesthetic.  
+I do rewrite my notes, but I also listen to a lot of podcasts-  
+Even after reading this, I’m not sure what my main learning style is. Reading the additional link, http://vark-learn.com/introduction-to-vark/the-vark-modalities/, I could be multimodal  
+Thinking about it more, I noticed that video learning is hard for me- it's harder for me to pay attention to a video than a podcast- which is strange, but true for me  
+Since I think I'm a combination learner, I'm going to gather all the strategies in my notes here as things I could try:  
 
 ### Visual Study Strategies
 * Utilize graphic organizers such as charts, graphs and diagrams

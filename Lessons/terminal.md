@@ -5,10 +5,10 @@
 Text in bold from lesson plan 
 
 ## Learning Goals:
-* Understand the terms Terminal, command line, commands
-* To know advantages of the command line and why programmers use it
-* To utilize the terminal to navigate, create, delete, and modify files and folders
-* To know and utilize terminal commands including: ls, cd, touch, mkdir, rm, mv, cp, man, pwd, whoami, cat
+* **Understand the terms Terminal, command line, commands**  
+* **To know advantages of the command line and why programmers use it**  
+* **To utilize the terminal to navigate, create, delete, and modify files and folders**  
+* **To know and utilize terminal commands including: ls, cd, touch, mkdir, rm, mv, cp, man, pwd, whoami, cat**  
 
 ## Activities:
 :heavy_check_mark: Review the notes

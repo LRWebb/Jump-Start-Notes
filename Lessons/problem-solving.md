@@ -24,11 +24,16 @@ Donald Knuth- algorithms have “five basic properties, finiteness, definiteness
 
 :heavy_check_mark:  **Write an algorithm for getting to the house of a family member or friend (you pick a specific person)? Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness.**
 
-**Input:** Initial state is the person in the algorithm is me, with a driver’s license and the ability and knowledge to drive, with my glasses on, and with an operable car (don’t have a car, but for this let’s assume I do).  
-**Output:** The result wanted is I get from my house to my friend’s house.  
-**Finiteness:** The time frame is one hour  
-**Definiteness:** The steps below should be precise enough for a different person (or computer hah) to follow  
-**Effectiveness:** As much as possible, the steps below should have few assumptions  
+**Input:**  
+Initial state is the person in the algorithm is me, with a driver’s license and the ability and knowledge to drive, with my glasses on, and with an operable car (don’t have a car, but for this let’s assume I do).  
+**Output:**  
+The result wanted is I get from my house to my friend’s house.  
+**Finiteness:**  
+The time frame is one hour  
+**Definiteness:**  
+The steps below should be precise enough for a different person (or computer hah) to follow  
+**Effectiveness:**  
+As much as possible, the steps below should have few assumptions  
 **Algorithm:**  
 You start from your apartment in West Philadelphia. Make sure you have your keys, glasses on, and wallet with drivers license. If you’re missing any of those items find them first and take them with you. You exit your apartment, go downstairs and outside to where the car is parked. Unlock the car and get in. Turn the car on and check for traffic, then when the way is clear, move from a parked position into the street. Following traffic laws, drive north west to Cedar Ave. Look for a parking space close to your friends house. When you find one, signal that you’re parking, park and turn off the car. Get out and lock the door, then walk to your friend’s house using the sidewalks and ring the doorbell. You’re here!  
 
@@ -49,6 +54,8 @@ For this activity, you will write precise instructions to make a paper snowflake
 When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output.**
 
 Thinking I'll ask a friend to do the paper snowflake one- seems more fun and I can email the instructions. 
+
+Written and emailed to a friend!
 
 ### Instructions to make a paper snowflake: 
 * Please follow the steps below.  

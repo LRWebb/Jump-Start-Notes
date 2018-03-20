@@ -37,7 +37,7 @@ Notes on this install are in my Lesson 8 notes:
 I do have Chrome  
 I also have Sublime Text- Atom looks cool too    
 
-**For Ada, need a Mac with Sierra or El Capitan, El Capitan is preferred  
+**For Ada, need a Mac with Sierra or El Capitan, El Capitan is preferred**  
 
 **Trust, but Verify**
 

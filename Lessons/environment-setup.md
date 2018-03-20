@@ -41,6 +41,3 @@ I also have Sublime Text- Atom looks cool too
 
 **Trust, but Verify**
 
-
-
-

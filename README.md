@@ -14,11 +14,11 @@ This repo has the notes I made, per lesson. I'm moving them over from Google Dri
 | [Lesson 3](Lessons/effective-internet-searching.md)  | Effective Internet Searching | :white_check_mark:
 | [Lesson 4](Lessons/MacOSX-Keyboard-navigation.md)  | MacOSX Keyboard navigation | :construction::computer: 
 | [Lesson 5](Lessons/ada-programming-languages.md)  | Ada programming languages | :white_check_mark:
-| [Lesson 6](Lessons/terminal.md)  | Terminal | :white_check_mark::construction::dollar: 
+| [Lesson 6](Lessons/terminal.md)  | Terminal | :white_check_mark: 
 | [Lesson 7](Lessons/environment-setup.md)  | Environment Setup | :construction: :computer:
 | [Lesson 8](Lessons/hello-world.md)  | Hello World | :white_check_mark:
 | [Lesson 9](Lessons/programming-grammar.md)  | Comments, Data types, Mathematical operators, Keyboard input, Strings | :white_check_mark:
-| [Lesson 10](Lessons/programming-expressions.md)  | Relational operators, Logical operators, Conditionals | :large_orange_diamond:
+| [Lesson 10](Lessons/programming-expressions.md)  | Relational operators, Logical operators, Conditionals | :construction:
 | [Lesson 11](Lessons/iterators.md)  | Iterators | :construction:
 | [Lesson 12](Lessons/arrays.md)  | Arrays | :construction:
 | [Lesson 13](Lessons/hashes.md)  | Hashes | :construction:

@@ -15,7 +15,7 @@ Text in bold from lesson plan
 
 :heavy_check_mark: Complete [Learn the Command Line](https://www.codecademy.com/en/courses/learn-the-command-line/)
 
-:large_orange_diamond: (Optional) Read [Command Line Crash Course](https://learncodethehardway.org/unix/)  Links to learn Unix the Hard Way book, costs $20
+:large_orange_diamond::dollar: (Optional) Read [Command Line Crash Course](https://learncodethehardway.org/unix/)  Links to learn Unix the Hard Way book, costs $20
 
 ## Notes: 
 The command line is very linear- you type something, it does it next

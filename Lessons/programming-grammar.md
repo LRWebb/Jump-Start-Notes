@@ -1,10 +1,10 @@
-## Lesson 9: Programming Grammar
+# Lesson 9: Programming Grammar
 
 [Link to Ada Academy lesson 9](https://github.com/Ada-Developers-Academy/jump-start/tree/master/learning-to-code/grammar)
 
 Text in bold from lesson plan 
 
-### Activities
+## Activities:
 :heavy_check_mark: Review notes within this section  
 :heavy_check_mark: Watch [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)  
 :heavy_check_mark: Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`  
@@ -14,6 +14,7 @@ Text in bold from lesson plan
   :heavy_check_mark: Use up to ten different parts of speech in order to fill in your MadLib  
   :heavy_check_mark: Output should consist of a paragraph of output that has the user’s input substituted into the MadLib, we have provided an example run, but your madlib program should be unique to you  
 
+## Notes:
 Gist using Atom and Linux:  
 Experimenting and reading online, I found that Ctrl+Alt+G is what makes a Gist in Atom on Linux. Did that to start the Gist of essay answers.   
 Ctrl+Shift+G in Atom brings up the style guide!  
@@ -37,8 +38,8 @@ Slice sounds cool
 
 Video- instructor recommends we watch this twice  
 
-### Practice Problems:  
-#### Variables and assignment practice:  
+## Practice Problems:  
+### Variables and assignment practice:  
 Complete each section by hand, then check your answers using irb  
 
 x = 5  
@@ -150,7 +151,7 @@ what value does hh now hold?
 6  
  irb says 2 :(  
   
-#### Operators practice:  
+### Operators practice:  
 Consider the following variable assignments and then fill in the tables  
 d = 10  
 e = 5.0  
@@ -185,7 +186,7 @@ i = 1.5
 
 Need to learn more about modulus  
 
-#### String practice:  
+### String practice:  
 Determine the output of slice on your own and then check your answer using irb  
 
 problem 1
@@ -287,7 +288,7 @@ Checking in irb it's:
 loverubylove
 well I was close- I missed the range part but now I know it
 
-##### MadLibs
+## MadLibs!
 
 For the next part, I looked at the titles of the EDUPLACE Wacky Adlibs list- I didn't read the copy, just used the titles as inspiration. I picked "Why I love Fall"
 

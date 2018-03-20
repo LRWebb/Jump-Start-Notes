@@ -29,5 +29,4 @@ My Ruby version is: ruby 2.3.1p112 (2016-04-26) x86_64-linux-gnu
 		4. Type `puts "Hello, World"` and save the file
 		5. In terminal type `ruby hello-world.rb` and press [enter]
 
-:heavy_check_mark: Reflect on the steps you completed, and try them a few more times without r
-referencing the instructions to practice
+:heavy_check_mark: Reflect on the steps you completed, and try them a few more times without referencing the instructions to practice

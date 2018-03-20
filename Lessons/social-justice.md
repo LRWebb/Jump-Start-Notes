@@ -13,6 +13,13 @@ Gain familiarity with the concept of microaggressions, and develop some initial 
 ### Ada's statement of inclusivity
 **Students, staff, volunteers, TA's, and reps from our sponsor companies come to Ada Developers Academy with an incredible diversity of identity and experience. We strive to make Ada an inclusive, safe, and equitable space for every member of our community. We recognize and celebrate difference along many axes including, but not limited to, sexual orientation, gender identity and presentation, age, race, ethnicity, class, religion, physical appearance, ability, national origin, educational background, and parental status. Our community includes women and gender diverse people (people who identify as trans, non-binary, gender queer, gender fluid, and gender non-conforming).**
 
+:heavy_check_mark: Start by reviewing our [glossary of social justice terms](./glossary.md).  
+
+Then read and reflect on these articles
+:heavy_check_mark: 1. [#FFFFFF Diversity](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.os3cox669) by [Erica Joy](http://www.ericabaker.com/)  
+:heavy_check_mark: 2. [What Being Non-Binary in Female-Centric Spaces Is Like – And How to Be More Inclusive](https://everydayfeminism.com/2016/06/non-binary-in-female-spaces/) by [Sam Escobar](https://twitter.com/myhairisblue)  
+:heavy_check_mark: 3. [Allies and Microaggressions](https://www.insidehighered.com/advice/2016/04/13/how-be-ally-someone-experiencing-microaggressions-essay) by [Kerry Ann Rockquemore](https://twitter.com/divaprof)  
+
 Reading: glossary and three articles
 Interesting to think of oppression as “socially supported.” Thinking about it, it does fit, but I’ve never seen it put so bluntly
 “Wait for (white) women to get theirs, then we’ll get to you.” - oof

@@ -68,12 +68,12 @@ As I read through these strategies and descriptions again, I think I'm an Aural 
 
 :heavy_check_mark: [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
 
-[How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
+### [How Successful People Stay Calm](http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
 Reading this I thought a lot of a friend- she can go from "mistake" to "everything is ruined" really quickly. The chart shows how stress can really negatively affect thinking. 
 Intermittent stress is different from constant stress- constant stress is worse
 "Top performers have well-honed coping strategies that they employ under stressful circumstances. This lowers their stress levels regardless of what’s happening in their environment, ensuring that the stress they experience is intermittent and not prolonged."
 
-### Ten recommended strategies: 
+#### Ten recommended strategies: 
 1. Appreciation- improves mood, reduces cortisol
 2. Avoid asking "What if?"- don't imagine the worst case scenario, take action
 3. Stay positive- choose something positive to think about. Don't flood yourself with negative thoughts
@@ -85,32 +85,32 @@ Intermittent stress is different from constant stress- constant stress is worse
 9. Breathe- yes! Meditation has been so good for me. 
 10. Use your support system- also super super good- grabbing the chunk: "To be calm and productive, you need to recognize your weaknesses and ask for help when you need it. This means tapping into your support system when a situation is challenging enough for you to feel overwhelmed. Everyone has someone at work and/or outside work who is on their team, rooting for them, and ready to help them get the best from a difficult situation. Identify these individuals in your life and make an effort to seek their insight and assistance when you need it. Something as simple as talking about your worries will provide an outlet for your anxiety and stress and supply you with a new perspective on the situation. Most of the time, other people can see a solution that you can’t because they are not as emotionally invested in the situation. Asking for help will mitigate your stress and strengthen your relationships with those you rely upon."
 
-[Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
+### [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
 
 Reading Felder and Soloman’s learning styles I see a lot of myself in the Sequential one. I mean, to even do this Jump Start I made a spreadsheet first thing and I’m working through it- that’s pretty sequential :)
 
-### Active and Reflective
+#### Active and Reflective
 Active prefer to discuss or do first- try it, like group work
 Help themselves by: Study in a group, find ways to do things with the information
 
 Reflective want to think about it first- let's think about it, prefer working alone
 Help themselves by: stop while you read and try to think of possible questions or applications. Write summaries. 
 
-### Sensing and Intuitive
+#### Sensing and Intuitive
 Sensing like learning facts, dislike surprises
 Help themselves by: look for real world examples
 
 Intuitive like discovering possibilities and relationships, dislike repetition
 Help themselves by: look for connections, take time with details
 
-### Visual and Verbal
+#### Visual and Verbal
 Visual remember what they see
 Help themselves by: Look for visual representation of the information being taught. Make your own concept map. Color code. 
 
 Verbal get more out of words- written and spoken 
 Help themselves by: Write summaries or outlines in your own words. Work in groups to talk things through.
 
-### Sequential and Global
+#### Sequential and Global
 Sequential are linear, logical
 Help themselves by: outline the lecture material. Try to connect things
 

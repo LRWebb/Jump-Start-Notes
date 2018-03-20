@@ -5,163 +5,162 @@
 Text in bold from lesson plan 
 
 ### Activities
-:heavy_check_mark: Review notes within this section
-:heavy_check_mark: Watch [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)
-:heavy_check_mark: Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
-:heavy_check_mark:  Write a madlibs program
-  :heavy_check_mark: First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game
-  :heavy_check_mark: Create a MadLib program that accepts input from the user and outputs a completed MadLib
-  :heavy_check_mark: Use up to ten different parts of speech in order to fill in your MadLib
-  :heavy_check_mark: Output should consist of a paragraph of output that has the user’s input substituted into the MadLib, we have provided an example run, but your madlib program should be unique to you
+:heavy_check_mark: Review notes within this section  
+:heavy_check_mark: Watch [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)  
+:heavy_check_mark: Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`  
+:heavy_check_mark:  Write a madlibs program  
+  :heavy_check_mark: First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game  
+  :heavy_check_mark: Create a MadLib program that accepts input from the user and outputs a completed MadLib  
+  :heavy_check_mark: Use up to ten different parts of speech in order to fill in your MadLib  
+  :heavy_check_mark: Output should consist of a paragraph of output that has the user’s input substituted into the MadLib, we have provided an example run, but your madlib program should be unique to you  
 
-Gist using Atom and Linux:
-Experimenting and reading online, I found that Ctrl+Alt+G is what makes a Gist in Atom on Linux. Did that to start the Gist of essay answers. 
-Ctrl+Shift+G in Atom brings up the style guide!
-Also learned I need to have a file open in Atom with text before a Gist can be made of it
+Gist using Atom and Linux:  
+Experimenting and reading online, I found that Ctrl+Alt+G is what makes a Gist in Atom on Linux. Did that to start the Gist of essay answers.   
+Ctrl+Shift+G in Atom brings up the style guide!  
+Also learned I need to have a file open in Atom with text before a Gist can be made of it  
 
 https://gist.github.com/730fe708fbdea083056267ac877876ab
 
-New to me- float, symbol, hash
+New to me- float, symbol, hash  
 
-There is an order of operations in Ruby:
+There is an order of operations in Ruby  
 
-Assignment statements are read from right-to-left, not from left-to-right. Use phrases like assigns, or stores the value, instead of equals, or equal to.
+Assignment statements are read from right-to-left, not from left-to-right. Use phrases like assigns, or stores the value, instead of equals, or equal to.  
 
-Compound assignment statements look very cool- also potentially confusing, but cool that actions can be combined
+Compound assignment statements look very cool- also potentially confusing, but cool that actions can be combined  
 
-Chomp!
+Chomp!  
 
-I’m going to have to read this more than once
+I’m going to have to read this more than once  
 
-Slice sounds cool
+Slice sounds cool  
 
-Video- instructor recommends we watch this twice
+Video- instructor recommends we watch this twice  
 
-### Practice Problems:
-#### Variables and assignment practice:
-Complete each section by hand, then check your answers using irb
+### Practice Problems:  
+#### Variables and assignment practice:  
+Complete each section by hand, then check your answers using irb  
 
-x = 5
-what value does x now hold?
-5
-irb says 5!
+x = 5  
+what value does x now hold?  
+5  
+irb says 5!  
+  
+z = "Hello"  
+what value does z now hold?  
+Hello  
+irb says Hello!  
+  
+a = 5  
+b = 3.2  
+c = a + b  
+what values does c now hold?  
+8.2  
+irb says 8.2!  
 
-z = "Hello"
-what value does z now hold?
-Hello
-irb says Hello!
+var1 = "lawl"  
+var2 = "brb"  
+what value does var2 now hold?  
+brb  
+irb says brb!  
 
-a = 5
-b = 3.2
-c = a + b
-what values does c now hold?
-8.2
-irb says 8.2!
+e = 6 + 3  
+what values does e now hold?  
+9  
+irb says 9!  
+  
+f = 3.5  
+f = f + 2  
+what value does f now hold?  
+5.5  
+irb says 5.5!  
 
-var1 = "lawl"
-var2 = "brb"
-what value does var2 now hold?
-brb
-irb says brb!
+poodle = 4  
+pitbull = 3  
+what value does boxer now hold?  
+nil  
+irb says NameError!  
+  
+h = 5  
+h = h + h  
+what values does h now hold?  
+10  
+irb says 10!  
 
-e = 6 + 3
-what values does e now hold?
-9
-irb says 9!
-
-f = 3.5
-f = f + 2
-what value does f now hold?
-5.5
-irb says 5.5!
-
-poodle = 4
-pitbull = 3
-what value does boxer now hold?
-nil
-irb says NameError!
-
-h = 5
-h = h + h
-what values does h now hold?
-10
-irb says 10!
-
-j = 1
-k = 2
-m = 3
-n = j + k + m
-what value does n now hold?
-6
-irb says 6!
-
-p = "moo"
-q = "quack"
-p  = q
-what value does p now hold?
-quack
-irb says quack!
-
-r = "moo"
-s = "quack"
-t = "woof"
-r = t
-what value does r now hold?
-woof
-irb says woof!
-
-u = 5
-u = u * 2
-u = u * 2
-u = u * 2
-what value does u now hold?
-40
-irb says 40!
-
-v = "b"
-z = "a"
-what value does v now hold?
-b
-irb says b!
-
-aa = 3234
-bb = 2398
-cc = 0
-dd = (aa + bb) / cc
-what value does d now hold?
-0
-irb says ZeroDivisionError!
-
-yy = 7
-zz = yy % 2
-what value does zz now hold?
-3.5
-irb says 1 :(
-
-ee = 12
-ff = ee % 4
-what value does ff now hold?
-1
-irb says 0 :(
-
-zz = 17
-hh = zz % 3
-what value does hh now hold?
-6
- irb says 2 :(
-
-#### Operators practice:
-Consider the following variable assignments and then fill in the tables
-d = 10
-e = 5.0
-f = 2
-g = 11.0
-h = 3
-i = 1.5
-
+j = 1  
+k = 2  
+m = 3  
+n = j + k + m  
+what value does n now hold?  
+6  
+irb says 6!  
+  
+p = "moo"  
+q = "quack"  
+p  = q  
+what value does p now hold?  
+quack  
+irb says quack!  
+  
+r = "moo"  
+s = "quack"  
+t = "woof"  
+r = t  
+what value does r now hold?  
+woof    
+irb says woof!  
+  
+u = 5  
+u = u * 2  
+u = u * 2  
+u = u * 2  
+what value does u now hold?  
+40  
+irb says 40!  
+  
+v = "b"  
+z = "a"  
+what value does v now hold?  
+b  
+irb says b!  
+  
+aa = 3234  
+bb = 2398  
+cc = 0  
+dd = (aa + bb) / cc  
+what value does d now hold?  
+0  
+irb says ZeroDivisionError!  
+  
+yy = 7  
+zz = yy % 2  
+what value does zz now hold?  
+3.5  
+irb says 1 :(  
+  
+ee = 12  
+ff = ee % 4  
+what value does ff now hold?  
+1  
+irb says 0 :(  
+  
+zz = 17  
+hh = zz % 3  
+what value does hh now hold?  
+6  
+ irb says 2 :(  
+  
+#### Operators practice:  
+Consider the following variable assignments and then fill in the tables  
+d = 10  
+e = 5.0  
+f = 2  
+g = 11.0  
+h = 3  
+i = 1.5  
+  
 | Operation | Result | Data type of result | Ran in Ruby, am I right? |
 | :--- | :--- | :--- | :--- |
-
 | d + e | 15.0 | Float | Yep! |
 | f + h | 5 | Integer | Yep! |
 | g + h | 14.0 | Float | Yep! |
@@ -184,10 +183,11 @@ i = 1.5
 | 4 % 5 | .08 | Float | no it's 4? |
 | 8 % 1 | 8 | Integer | no it's 0?? |
 
-Need to learn more about modulus
+Need to learn more about modulus  
 
-#### String practice:
-Determine the output of slice on your own and then check your answer using irb
+#### String practice:  
+Determine the output of slice on your own and then check your answer using irb  
+
 problem 1
 my_string = "I love Seattle"
 my_string.slice(7) 

@@ -39,7 +39,7 @@ Didn’t know about window snapping Cinch, Divvy, Slate, and Spectacle
 Cool!
 
 
-## Practice tasks
+## Practice tasks:
 1. Use Spotlight to open the finder
     * What does tab do in finder?
     * What does shift + tab do in finder?

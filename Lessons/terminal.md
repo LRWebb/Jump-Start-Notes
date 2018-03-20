@@ -41,7 +41,8 @@ The terminal will take in what you write, do it, then display output if that's p
 | `cd -` | It listed the directory path I was in|
 
 ### Practive making files and folders:
-Screenshots in GoogleDoc 
+
+*Screenshots in GoogleDoc*  
 
 :heavy_check_mark:  Market
 

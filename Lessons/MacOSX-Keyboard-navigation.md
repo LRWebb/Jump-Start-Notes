@@ -9,11 +9,11 @@ Text in bold from lesson plan
 I don’t have a Mac but I want to read through this anyway and get familiar with it
 
 ## Goals:
-* Become familiar with navigating the MacOSX environment
-* Understand why and how to utilize multiple tabs, application windows, and desktops
-* Start using application shortcuts and hotkeys
-* Effectively find applications, folders, and files
-* Effectively manage open applications
+* **Become familiar with navigating the MacOSX environment**  
+* **Understand why and how to utilize multiple tabs, application windows, and desktops**  
+* **Start using application shortcuts and hotkeys**  
+* **Effectively find applications, folders, and files**  
+* **Effectively manage open applications**  
 
 | What the command does | Mac shortcut |
 | :--- | :--- |

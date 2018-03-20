@@ -1,11 +1,11 @@
 
-## Lesson 0: Social Justice	
+# Lesson 0: Social Justice	
 
 [Link to Ada Academy lesson 0](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/social-justice)
 
 Text in bold from lesson plan, other text mine
 
-### Learning Goals:
+## Learning Goals:
 **Gain some tools for thinking critically about power and privilege in tech communities
 Begin approaching tech diversity initiatives with an intersectional lens 
 Gain familiarity with the concept of microaggressions, and develop some initial strategies for intervention**
@@ -24,7 +24,7 @@ Feel: Express your feelings about the situation.
 Desire: Assert what you would like to happen.”
 I've been practicing the above  
 
-### Reflection:
+## Reflection:
 **Take some time to reflect on the readings. This reflection can take on whatever form works best for you, you might want to have conversations with people about what you read, spend some time free form writing, create a video sharing what you learned or maybe produce a piece of art. It is totally up to you and what works best for you.**
 
 I’m writing a few notes now, and I know I’ll come back to this. The non-binary one especially.
@@ -33,7 +33,7 @@ I kept questioning. Still do. I don't have all the answers, but I do know there 
 Dissent is a skill I am working to level up. For most of my childhood I was silent- I did question sometimes, but I was silent a lot more. But with more independance, I'm vocalizing dissent more with them.  
 I see this as one of the ways I can support others- speaking UP. Speaking dissent.  Speaking comfort. Speaking encouragement.  
 
-### Reflection questions:
+## Reflection questions:
 **We are including a few reflection questions which you can use as a guide if you are having trouble getting started. You can address all of our prompts, choose only a few, or come up with your own.
 What, if anything, was new to you here? What additional questions does this raise for you?**
 

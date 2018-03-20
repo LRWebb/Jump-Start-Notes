@@ -1,10 +1,10 @@
-## Lesson 1: Learning Styles
+# Lesson 1: Learning Styles
 
 [Link to Ada Academy lesson 1](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-for-ada/learning-styles)
 
 Text in bold from lesson plan  
 
-### Learning goals:
+## Learning goals:
 **Explore your learning style
 Find strategies that allow you to consume and retain information quickly, and increase your understanding**
 
@@ -22,32 +22,32 @@ Even after reading this, I’m not sure what my main learning style is. Reading 
 Thinking about it more, I noticed that video learning is hard for me- it's harder for me to pay attention to a video than a podcast- which is strange, but true for me
 Since I think I'm a combination learner, I'm going to gather all the strategies in my notes here as things I could try:
 
-#### Visual Study Strategies
+### Visual Study Strategies
 * Utilize graphic organizers such as charts, graphs and diagrams
 * Redraw your pages from memory
 * Replace important words with symbols or initials
 * Highlight important key terms in corresponding colors
-#### Aural Study Strategies
+### Aural Study Strategies
 * Record your summarized notes and listen to them on tape
 * Have a discussion with others to expand upon your understanding of a topic
 * Reread your notes and/or assignment out loud
 * Explain your notes to fellow "aural" learners
-#### Read/Write Study Strategies
+### Read/Write Study Strategies
 * Write, write and rewrite your words and notes
 * Reword main ideas and principles to gain a deeper understanding
 * Organize diagrams, charts, and graphic organizers into statements
-#### Kinesthetic Study Strategies
+### Kinesthetic Study Strategies
 * Use real life examples, applications and case studies in your summary to help with abstract concepts
 * Redo lab experiments or projects
 * Utilize pictures and photographs that illustrate your idea
 
-### Learning to code strategies
-#### Before the lesson
+## Learning to code strategies
+### Before the lesson
 * Read the notes, and highlight the pieces that you anticipate will be most challenging for you to absorb
 * Write or review the learning goal for the lesson
-#### During the lesson
+### During the lesson
 * Keep a vocabulary sheet where you write down relevant new vocabulary and definitions in your own words
-#### After the lesson
+### After the lesson
 * Read the notes, and highlight the parts that were challenging to understand and make yourself notes with further explanations or examples
 * Write down the main points of the lesson
 * Explain the main points of the lesson to someone else
@@ -55,7 +55,7 @@ Since I think I'm a combination learner, I'm going to gather all the strategies 
 * Find other example code online and then write comments of explaining what is happening
 * Try small exercise drills that reinforce the concept
 
-### General strategies
+## General strategies
 * After you've moved forward in your learning, go back and redo an old assignment from scratch
 * Start by typing in code that you already know works, then make small changes to the code, predicting the output/change and then verifying if that assumption was correct
 * Ask someone else to walk you through their code without your computer in front of you, listening attentively and asking questions
@@ -73,7 +73,7 @@ Reading this I thought a lot of a friend- she can go from "mistake" to "everythi
 Intermittent stress is different from constant stress- constant stress is worse
 "Top performers have well-honed coping strategies that they employ under stressful circumstances. This lowers their stress levels regardless of what’s happening in their environment, ensuring that the stress they experience is intermittent and not prolonged."
 
-#### Ten recommended strategies: 
+### Ten recommended strategies: 
 1. Appreciation- improves mood, reduces cortisol
 2. Avoid asking "What if?"- don't imagine the worst case scenario, take action
 3. Stay positive- choose something positive to think about. Don't flood yourself with negative thoughts
@@ -89,28 +89,28 @@ Intermittent stress is different from constant stress- constant stress is worse
 
 Reading Felder and Soloman’s learning styles I see a lot of myself in the Sequential one. I mean, to even do this Jump Start I made a spreadsheet first thing and I’m working through it- that’s pretty sequential :)
 
-#### Active and Reflective
+### Active and Reflective
 Active prefer to discuss or do first- try it, like group work
 Help themselves by: Study in a group, find ways to do things with the information
 
 Reflective want to think about it first- let's think about it, prefer working alone
 Help themselves by: stop while you read and try to think of possible questions or applications. Write summaries. 
 
-#### Sensing and Intuitive
+### Sensing and Intuitive
 Sensing like learning facts, dislike surprises
 Help themselves by: look for real world examples
 
 Intuitive like discovering possibilities and relationships, dislike repetition
 Help themselves by: look for connections, take time with details
 
-#### Visual and Verbal
+### Visual and Verbal
 Visual remember what they see
 Help themselves by: Look for visual representation of the information being taught. Make your own concept map. Color code. 
 
 Verbal get more out of words- written and spoken 
 Help themselves by: Write summaries or outlines in your own words. Work in groups to talk things through.
 
-#### Sequential and Global
+### Sequential and Global
 Sequential are linear, logical
 Help themselves by: outline the lecture material. Try to connect things
 

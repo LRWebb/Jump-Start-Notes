@@ -90,7 +90,10 @@ Florida school
 A test case is - I like this definition best of the 4:  
 Boris Beizer (1995, p. 3) defines a test as 
 >A sequence of one or more subtests executed as a sequence because the outcome and/or final state of 
->one subtest is the input and/or initial state of the next. The word ‘test’ is used to include >subtests, tests proper, and test suites.  
+>one subtest is the input and/or initial state of the next.  
+
+The word ‘test’ is used to include subtests, tests proper, and test suites.  
+
 Kaner says a test case is a question that you ask of the program. 
 We do this to find defects, maximize bug count, block premature product releases, help staff make decisions, minimize tech support costs, conform to regulations, minimize lawsuit risk, assess quality, and assure quality
 

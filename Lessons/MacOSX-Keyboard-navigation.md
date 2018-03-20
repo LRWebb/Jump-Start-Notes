@@ -1,4 +1,4 @@
-## Lesson 4: MacOSX Keyboard navigation
+# Lesson 4: MacOSX Keyboard navigation
 
 [Link to Ada Academy lesson 4](https://github.com/Ada-Developers-Academy/jump-start/tree/master/preparing-to-code/keyboard-navigation)
 
@@ -8,7 +8,7 @@ Text in bold from lesson plan
 
 I don’t have a Mac but I want to read through this anyway and get familiar with it
 
-### Goals:
+## Goals:
 * Become familiar with navigating the MacOSX environment
 * Understand why and how to utilize multiple tabs, application windows, and desktops
 * Start using application shortcuts and hotkeys

@@ -30,12 +30,14 @@ irb is one way to use Ruby + computer. The other way is to put the Ruby code on 
 I have a Linux laptop. I need a mac before I can do some of this :( heading over to look at Atom and see if they have a Linux version  
 
 Installfest 
-*See Lesson 8 for install screenshots:
-- Notes on this install are in my Lesson 8 notes: "Based on the email/GitHub message from Ada today, I'm going back to Lesson 7- Atom and Ruby at least- Notes in this one though as I'm doing it on the 22nd  
+See Lesson 8 for install screenshots:  
+Notes on this install are in my Lesson 8 notes:  
+"Based on the email/GitHub message from Ada today, I'm going back to Lesson 7- Atom and Ruby at least- Notes in this one though as I'm doing it on the 22nd  
 
 I do have Chrome  
-I also have Sublime Text- Atom looks cool too   
-** For Ada, need a Mac with Sierra or El Capitan, El Capitan is preferred  
+I also have Sublime Text- Atom looks cool too    
+
+**For Ada, need a Mac with Sierra or El Capitan, El Capitan is preferred  
 
 **Trust, but Verify**
 

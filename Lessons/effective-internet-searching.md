@@ -5,10 +5,10 @@
 Text in bold from lesson plan 
 
 ## Goals:
-* **To know where to go for answers
-* To be able to evaluate a source as likely to have the answer you are looking for (or not)
-* To be able to narrow your search results to yield better results
-* To find answers to a question on your own**
+* **To know where to go for answers**  
+* **To be able to evaluate a source as likely to have the answer you are looking for (or not)**  
+* **To be able to narrow your search results to yield better results**  
+* **To find answers to a question on your own**  
 
 **What's most important is that you can find the answer, not that you know the answer right away.**
 

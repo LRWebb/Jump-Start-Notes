@@ -13,7 +13,7 @@ Text in bold from lesson plan
 ## Activities:
 :heavy_check_mark: Review the notes in this section  
 :heavy_check_mark: Complete the [practice problems](./practice-problems.md)  
-:large_orange_diamond: Complete the candy machine assignment  
+:heavy_check_mark: Complete the candy machine assignment  
 
 ## Notes:
 = is not the same as ==. == means equal  

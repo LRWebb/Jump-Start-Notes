@@ -5,10 +5,10 @@
 Text in bold from lesson plan 
 
 ## Learning goals:
-- Understand and be able to use relational operators  
-- Understand and be able to use truth tables for logical operators  
-- Understand and be able to use conditional statements  
-- Understand the control flow of a program  
+- **Understand and be able to use relational operators**  
+- **Understand and be able to use truth tables for logical operators**  
+- **Understand and be able to use conditional statements**  
+- **Understand the control flow of a program**  
 
 ## Activities:
 :heavy_check_mark: Review the notes in this section  

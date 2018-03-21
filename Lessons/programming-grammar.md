@@ -187,116 +187,116 @@ i = 1.5
 Need to learn more about modulus  
 
 ### String practice:  
-Determine the output of slice on your own and then check your answer using irb  
+Determine the output of slice on your own and then check your answer using irb    
 
-problem 1
-my_string = "I love Seattle"
-my_string.slice(7) 
-I think the output is:
-S
-Checking in irb it's:
-Correct!
+problem 1  
+my_string = "I love Seattle"  
+my_string.slice(7)   
+I think the output is:  
+S  
+Checking in irb it's:  
+Correct!  
 
-problem 2
-my_string = "I love Seattle"
-my_string.slice(2, 4)
-I think the output is:
-l v
-Checking in irb it's:
-love- does the range
+problem 2  
+my_string = "I love Seattle"  
+my_string.slice(2, 4)  
+I think the output is:  
+l v  
+Checking in irb it's:  
+love- does the range  
 
-problem 3
-my_string = "I love Seattle"
-my_string.slice("Seattle")
-I think the output is:
-Seattle
-Checking in irb it's:
-Correct!
+problem 3  
+my_string = "I love Seattle"  
+my_string.slice("Seattle")  
+I think the output is:  
+Seattle  
+Checking in irb it's:  
+Correct!  
 
-problem 4
-my_string = "Ada"
-my_string + " Lovelace"
-I think the output is:
-Ada Lovelace
-Checking in irb it's:
-Correct!
+problem 4  
+my_string = "Ada"  
+my_string + " Lovelace"  
+I think the output is:  
+Ada Lovelace  
+Checking in irb it's:  
+Correct!   
 
-problem 5
-my_string = "Ada"
-my_string << " codes" << " it!"
-I think the output is:
-Ada codes it!
-Checking in irb it's:
-Correct!
+problem 5  
+my_string = "Ada"  
+my_string << " codes" << " it!"  
+I think the output is:  
+Ada codes it!  
+Checking in irb it's:  
+Correct!  
 
-problem 6
-my_string = "Ada"
-my_string.concat(" likes to code").slice(4...9)
-I think the output is:
-likes
-Checking in irb it's:
-Correct!
+problem 6  
+my_string = "Ada"  
+my_string.concat(" likes to code").slice(4...9)  
+I think the output is:  
+likes  
+Checking in irb it's:  
+Correct!  
 
-problem 7
-my_string = "Hello world"
-"Goodbye " + my_string.slice(6, 5) << "!"
-I think the output is:
-Goodbye w !
-Checking in irb it's:
-Goodbyew! -- I added too many spaces to my answer
+problem 7  
+my_string = "Hello world"  
+"Goodbye " + my_string.slice(6, 5) << "!"  
+I think the output is:  
+Goodbye w !  
+Checking in irb it's:  
+Goodbyew! -- I added too many spaces to my answer  
 
-problem 8
-my_string = "Hello world!"
-my_string.slice(0...5).concat(", goodbye!")
-I think the output is:
-Hello, goodbye!
-Checking in irb it's:
-Correct!
+problem 8  
+my_string = "Hello world!"  
+my_string.slice(0...5).concat(", goodbye!")  
+I think the output is:  
+Hello, goodbye!  
+Checking in irb it's:  
+Correct!  
 
-problem 9
-my_string = "Hello world!"
-my_string.slice(0) << "i" + "!"
-I think the output is:
-Hi!
-Checking in irb it's:
-Correct!
+problem 9  
+my_string = "Hello world!"  
+my_string.slice(0) << "i" + "!"  
+I think the output is:  
+Hi!  
+Checking in irb it's:  
+Correct!  
 
-problem 10
-my_string = "I love ruby"
-my_string.slice(7, 4).concat(my_string.slice(2...6)) + my_string.slice(0)
-I think the output is:
-Rvlove I
-Checking in irb it's:
-No, it's RubyloveI
-looking back at the code…. I get the last part, I don't get the Ruby part
+problem 10  
+my_string = "I love ruby"  
+my_string.slice(7, 4).concat(my_string.slice(2...6)) + my_string.slice(0)  
+I think the output is:  
+Rvlove I  
+Checking in irb it's:  
+No, it's RubyloveI  
+looking back at the code…. I get the last part, I don't get the Ruby part  
 
-problem 11
-my_string = "I love ruby"
-"R".concat(my_string.slice(8, 3) + " rocks!")
-I think the output is:
-Ruo rocks!
-Checking in irb it's:
-Rubyrocks!
-Hm got this wrong too- looking back at the code it's similar to the last one I missed- cutting backwards but spelling forwards
+problem 11  
+my_string = "I love ruby"  
+"R".concat(my_string.slice(8, 3) + " rocks!")  
+I think the output is:  
+Ruo rocks!  
+Checking in irb it's:  
+Rubyrocks!  
+Hm got this wrong too- looking back at the code it's similar to the last one I missed- cutting backwards but spelling forwards  
 
-problem 12
-my_string = "I love ruby"
-my_string.slice(2, 4) << my_string.slice(7...11).concat(my_string.slice(2...6))
-I think the output is:
-lvrubylove 
-Checking in irb it's:
-loverubylove
-well I was close- I missed the range part but now I know it
+problem 12  
+my_string = "I love ruby"  
+my_string.slice(2, 4) << my_string.slice(7...11).concat(my_string.slice(2...6))  
+I think the output is:  
+lvrubylove   
+Checking in irb it's:  
+loverubylove  
+well I was close- I missed the range part but now I know it  
 
 ## MadLibs!
 
 For the next part, I looked at the titles of the EDUPLACE Wacky Adlibs list- I didn't read the copy, just used the titles as inspiration. I picked "Why I love Fall"
 
 Final:
-NAME I just grabbed my favorite scarf, it's officially Fall! My favorite season :) There are many reasons to love Fall. First, you have the ADJECTIVE weather. Neither too hot nor too cold, it's perfect for going for a OUTDOOR ACTIVITY, reading at home, or anything in between, especially with SINGULAR NOUN. 
-I believe all PLURAL NOUN ANIMAL are better in the fall- they're so fun to watch! At night the COLOR sky just sparkles with stars, and all around you can hear the ADVERB sound of peaceful nature. 
-Don't even get me started on the ADJECTIVE food! All season long, you have at least NUMBER options for yummy things. From BREAKFAST FOOD to DESSERT, hearty, flavorful, and filling foods are the name of the game. Hot apple cider isn't too bad either!
-No year is complete without a soothing, restful, reenergizing, and delicious Fall season. Don't you agree, NAME? It's okay to agree or disagree, you can have your own opinion. Why is FAVORITE SEASON your favorite season? What do you like to do with FRIEND during that time? 
+NAME I just grabbed my favorite scarf, it's officially Fall! My favorite season :) There are many reasons to love Fall. First, you have the ADJECTIVE weather. Neither too hot nor too cold, it's perfect for going for a OUTDOOR ACTIVITY, reading at home, or anything in between, especially with SINGULAR NOUN.   
+I believe all PLURAL NOUN ANIMAL are better in the fall- they're so fun to watch! At night the COLOR sky just sparkles with stars, and all around you can hear the ADVERB sound of peaceful nature.   
+Don't even get me started on the ADJECTIVE food! All season long, you have at least NUMBER options for yummy things. From BREAKFAST FOOD to DESSERT, hearty, flavorful, and filling foods are the name of the game. Hot apple cider isn't too bad either!  
+No year is complete without a soothing, restful, reenergizing, and delicious Fall season. Don't you agree, NAME? It's okay to agree or disagree, you can have your own opinion. Why is FAVORITE SEASON your favorite season? What do you like to do with FRIEND during that time?   
 
 Asking for:
 1. ADJECTIVE
@@ -313,122 +313,121 @@ Asking for:
 12. FAVORITE SEASON
 13. FRIEND
 
-I have a Ruby file open in Atom. 
-Taking a break to rewatch the video, then going back to this. 
+I have a Ruby file open in Atom.   
+Taking a break to rewatch the video, then going back to this.   
 
-Here's what I have in my Ruby file so far:
-these are the variables:
-1. ADJECTIVE:
-2. OUTDOOR ACTIVITY:
-3. SINGULAR NOUN:
-4. PLURAL NOUN ANIMAL:
-5. COLOR:
-6. ADVERB:
-7. SECOND ADJECTIVE:
-8. NUMBER:
-9. BREAKFAST FOOD:
-10. DESSERT:
-11. NAME:
-12. FAVORITE SEASON:
-13. FRIEND:
+Here's what I have in my Ruby file so far:  
+these are the variables:  
+1. ADJECTIVE:  
+2. OUTDOOR ACTIVITY:  
+3. SINGULAR NOUN:  
+4. PLURAL NOUN ANIMAL:  
+5. COLOR:  
+6. ADVERB:  
+7. SECOND ADJECTIVE:  
+8. NUMBER:  
+9. BREAKFAST FOOD:  
+10. DESSERT:  
+11. NAME:  
+12. FAVORITE SEASON:  
+13. FRIEND:  
 
-this is the start where I ask for the words
+this is the start where I ask for the words  
 Print "It's MadLib season! I need your help finishing this bit of writing. I'm going to ask you 13 questions and each answer should be only one word. Ready? Here's the first one:
 Adjective"
 Adjective = gets.chomp
 
-Here's the final paragraph and where the outputs should go:
+Here's the final paragraph and where the outputs should go:  
 puts "NAME I just grabbed my favorite scarf, it's officially Fall! My favorite season :) There are many reasons to love Fall. First, you have the " Adjective " weather. Neither too hot nor too cold, it's perfect for going for a OUTDOOR ACTIVITY, reading at home, or anything in between, especially with SINGULAR NOUN.
 I believe all PLURAL NOUN ANIMAL are better in the fall- they're so fun to watch! At night the COLOR sky just sparkles with stars, and all around you can hear the ADVERB sound of peaceful nature.
 Don't even get me started on the ADJECTIVE food! All season long, you have at least NUMBER options for yummy things. From BREAKFAST FOOD to DESSERT, hearty, flavorful, and filling foods are the name of the game. Hot apple cider isn't too bad either!
 No year is complete without a soothing, restful, reenergizing, and delicious Fall season. Don't you agree, NAME? It's okay to agree or disagree, you can have your own opinion. Why is FAVORITE SEASON your favorite season? What do you like to do with FRIEND during that time?""
 
+Okay I'm made some changes. Now I'm at:  
+this is the start where I ask for the words  
+print "It's MadLib season! I need your help finishing this bit of writing. I'm going to ask you 13 questions and each answer should be only one word. Ready? Here's the first one:  
+ADJECTIVE"  
+Adjective = gets.chomp  
 
-Okay I'm made some changes. Now I'm at:
-this is the start where I ask for the words
-print "It's MadLib season! I need your help finishing this bit of writing. I'm going to ask you 13 questions and each answer should be only one word. Ready? Here's the first one:
-ADJECTIVE"
-Adjective = gets.chomp
+print "Here's the next one!   
+OUTDOOR ACTIVITY: "  
+OUTDOOR_ACTIVITY: = gets.chomp  
 
-print "Here's the next one! 
-OUTDOOR ACTIVITY: "
-OUTDOOR_ACTIVITY: = gets.chomp
+print "Here's the next one!   
+SINGULAR NOUN: "  
+SINGULAR_NOUN = gets.chomp  
 
-print "Here's the next one! 
-SINGULAR NOUN: "
-SINGULAR_NOUN = gets.chomp
+print "Here's the next one!   
+PLURAL NOUN ANIMAL: "  
+PLURAL_NOUN_ANIMAL = gets.chomp  
 
-print "Here's the next one! 
-PLURAL NOUN ANIMAL: "
-PLURAL_NOUN_ANIMAL = gets.chomp
+print "Here's the next one!   
+COLOR: "  
+COLOR = gets.chomp  
 
-print "Here's the next one! 
-COLOR: "
-COLOR = gets.chomp
+print "Here's the next one!   
+ADVERB: "  
+ADVERB = gets.chomp  
 
-print "Here's the next one! 
-ADVERB: "
-ADVERB = gets.chomp
+print "More than halfway there you're awesome! How about a:   
+SECOND ADJECTIVE: "  
+SECOND_ADJECTIVE = gets.chomp  
 
-print "More than halfway there you're awesome! How about a: 
-SECOND ADJECTIVE: "
-SECOND_ADJECTIVE = gets.chomp
+print "Here's the next one!   
+NUMBER: "  
+NUMBER = gets.chomp  
 
-print "Here's the next one! 
-NUMBER: "
-NUMBER = gets.chomp
+print "Here's the next one!   
+BREAKFAST FOOD: "  
+BREAKFAST_FOOD = gets.chomp  
 
-print "Here's the next one! 
-BREAKFAST FOOD: "
-BREAKFAST_FOOD = gets.chomp
+print "Here's the next one!   
+DESSERT: "  
+DESSERT = gets.chomp  
 
-print "Here's the next one! 
-DESSERT: "
-DESSERT = gets.chomp
+print "Here's the next one!   
+YOUR NAME: "  
+YOUR_NAME = gets.chomp  
 
-print "Here's the next one! 
-YOUR NAME: "
-YOUR_NAME = gets.chomp
+print "Here's the next one!   
+FAVORITE SEASON: "  
+FAVORITE_SEASON = gets.chomp  
 
-print "Here's the next one! 
-FAVORITE SEASON: "
-FAVORITE_SEASON = gets.chomp
-
-print "Last one! You rock :) 
-FRIEND'S NAME: "
-FRIENDS_NAME = gets.chomp
+print "Last one! You rock :)   
+FRIEND'S NAME: "  
+FRIENDS_NAME = gets.chomp  
 
 
-Here's the final paragraph and where the outputs should go:
-puts "Guess what, #{YOUR_NAME}? I just grabbed my favorite scarf, it's officially Fall! My favorite season :) There are many reasons to love Fall. First, you have the #{ADJECTIVE} weather. Neither too hot nor too cold, it's perfect for going for a #{OUTDOOR_ACTIVITY}, reading at home, or anything in between, especially with #{SINGULAR_NOUN}.
-I believe all #{PLURAL_NOUN_ANIMAL} are better in the fall- they're so fun to watch! At night the #{COLOR} sky just sparkles with stars, and all around you can hear the #{ADVERB} sound of peaceful nature.
-Don't even get me started on the #{ADJECTIVE}, #{SECOND_ADJECTIVE} food! All season long, you have at least #{NUMBER} options for yummy things. From #{BREAKFAST_FOOD} to #{DESSERT}, hearty, flavorful, and filling foods are the name of the game. Hot apple cider isn't too bad either!
-No year is complete without a soothing, restful, reenergizing, and delicious Fall season. Don't you agree, #{YOUR_NAME}? It's okay to agree or disagree, you can have your own opinion. Why is #{FAVORITE SEASON} your favorite season? What do you like to do with #{FRIENDS_NAME} during that time?"
+Here's the final paragraph and where the outputs should go:  
+puts "Guess what, #{YOUR_NAME}? I just grabbed my favorite scarf, it's officially Fall! My favorite season :) There are many reasons to love Fall. First, you have the #{ADJECTIVE} weather. Neither too hot nor too cold, it's perfect for going for a #{OUTDOOR_ACTIVITY}, reading at home, or anything in between, especially with #{SINGULAR_NOUN}.  
+I believe all #{PLURAL_NOUN_ANIMAL} are better in the fall- they're so fun to watch! At night the #{COLOR} sky just sparkles with stars, and all around you can hear the #{ADVERB} sound of peaceful nature.  
+Don't even get me started on the #{ADJECTIVE}, #{SECOND_ADJECTIVE} food! All season long, you have at least #{NUMBER} options for yummy things. From #{BREAKFAST_FOOD} to #{DESSERT}, hearty, flavorful, and filling foods are the name of the game. Hot apple cider isn't too bad either!  
+No year is complete without a soothing, restful, reenergizing, and delicious Fall season. Don't you agree, #{YOUR_NAME}? It's okay to agree or disagree, you can have your own opinion. Why is #{FAVORITE SEASON} your favorite season? What do you like to do with #{FRIENDS_NAME} during that time?"  
 
-whomp whomp syntax error:
-(repl):8: syntax error, unexpected ':', expecting end-of-input
-OUTDOOR_ACTIVITY: = gets.chomp
-Gotta get that : out of there
+whomp whomp syntax error:  
+(repl):8: syntax error, unexpected ':', expecting end-of-input  
+OUTDOOR_ACTIVITY: = gets.chomp  
+Gotta get that : out of there  
 
-Oops my adjective variable was off-
-uninitialized constant ADJECTIVE
-Did you mean?  Adjective
-changing that.
+Oops my adjective variable was off-  
+uninitialized constant ADJECTIVE  
+Did you mean?  Adjective  
+changing that.  
 
-uninitialized constant SEASON
-(repl):59:in `<main>'
-annnnd season is missing a _- fixed now!
+uninitialized constant SEASON  
+(repl):59:in `<main>'  
+annnnd season is missing a _- fixed now!  
 
-All good :)
+All good :)  
 
-Curious about "[Optional] Explore Ruby's built in methods for String like capitalize, downcase, upcase"
+Curious about "[Optional] Explore Ruby's built in methods for String like capitalize, downcase, upcase"  
 
-Added ""FRIENDS_NAME".capitalize" to program
-that didn't work.
-Googled- ended up on StackOverflow
-This works! FRIENDS_NAME.capitalize!
+Added ""FRIENDS_NAME".capitalize" to program  
+that didn't work.  
+Googled- ended up on StackOverflow  
+This works! FRIENDS_NAME.capitalize!  
 
-Added it to file :)
+Added it to file :)  
 
 
 

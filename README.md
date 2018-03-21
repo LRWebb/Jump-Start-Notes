@@ -18,7 +18,7 @@ This repo has the notes I made, per lesson. I'm moving them over from Google Dri
 | [Lesson 7](Lessons/environment-setup.md)  | Environment Setup | :construction: :computer:
 | [Lesson 8](Lessons/hello-world.md)  | Hello World | :white_check_mark:
 | [Lesson 9](Lessons/programming-grammar.md)  | Comments, Data types, Mathematical operators, Keyboard input, Strings | :white_check_mark:
-| [Lesson 10](Lessons/programming-expressions.md)  | Relational operators, Logical operators, Conditionals | :memo:
+| [Lesson 10](Lessons/programming-expressions.md)  | Relational operators, Logical operators, Conditionals | :heavy_check_mark:
 | [Lesson 11](Lessons/iterators.md)  | Iterators | :memo:
 | [Lesson 12](Lessons/arrays.md)  | Arrays | :memo:
 | [Lesson 13](Lessons/hashes.md)  | Hashes | :memo:

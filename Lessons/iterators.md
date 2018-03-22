@@ -14,7 +14,7 @@ Text in bold from lesson plan
 :heavy_check_mark: Review the notes in this section  
 :heavy_check_mark: Complete [Loops Worksheet](assignments/loops-worksheet.md)  
 :heavy_check_mark: Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)  
-:large_orange_diamond: Complete [Election Time](assignments/election.md)  
+:heavy_check_mark: Complete [Election Time](assignments/election.md)  
 
 ## Notes:
 Loop and iteration are the same terms  

@@ -20,7 +20,7 @@ This repo has the notes I made, per lesson. I'm moving them over from Google Dri
 | [Lesson 9](Lessons/programming-grammar.md)  | Comments, Data types, Mathematical operators, Keyboard input, Strings | :white_check_mark:
 | [Lesson 10](Lessons/programming-expressions.md)  | Relational operators, Logical operators, Conditionals | :heavy_check_mark:
 | [Lesson 11](Lessons/iterators.md)  | Iterators | :heavy_check_mark:
-| [Lesson 12](Lessons/arrays.md)  | Arrays | :memo:
+| [Lesson 12](Lessons/arrays.md)  | Arrays | :heavy_check_mark:
 | [Lesson 13](Lessons/hashes.md)  | Hashes | :memo:
 
 

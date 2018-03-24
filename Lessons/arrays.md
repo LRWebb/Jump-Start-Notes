@@ -14,7 +14,7 @@ Text in bold from lesson plan
 ## Activities:
 :heavy_check_mark: Review the notes in this section  
 :heavy_check_mark: Complete [Array Worksheet](assignments/array-worksheet.md)  
-:large_orange_diamond: Complete [Account Generator](assignments/account-generator.md)    
+:heavy_check_mark: Complete [Account Generator](assignments/account-generator.md)    
 
 ## Notes:
 Zero- start from zero because there's movement- https://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/  
